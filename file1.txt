@@ -3,4 +3,7 @@ i am a student
 cse
 a section 
 place 
+create database
+draw er diagram
+write schema diagram
 
